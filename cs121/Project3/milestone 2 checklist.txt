@@ -1,0 +1,30 @@
+Milestone #2 Checklist/Extra Credit (EC):
+
+****************************************************************************
+Component 1: Inverted Index
+****************************************************************************
+
+- (EC) Heading tags (h1 -> h3) and word in bold/strong with <strong>, <b> tag should be treated as more important than other words
+- (EC) consider positions of the words in the page, HTML tag weights
+- Don't index stop words, link reference: https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js
+
+****************************************************************************
+Component 2: Search and retrieve
+****************************************************************************
+
+- User enters in a query -> search engine look up index and return a ranked list of pages (urls) with relevant results
+- multi-words search (currently only 1 word) need it to be able to search 2+ words as stated in milestone #2 
+- (EC) Make a GUI
+- Search results return top 10 based on scoring
+
+****************************************************************************
+Component 3: Ranking
+****************************************************************************
+
+- Ranking formula should include TF-IDF scoring (lecture 12, starting slide 19)
+	tf : # of occurrences of a word in a doc
+	tf score: 1 + log base 10(tf)
+	Calculate idf scoring : log base 10 (total number of documents / number of documents the token appears in)
+	Calculate tf-idf : tf * idf
+- (EC) Use more than just TF-IDF, use other scoring schemes taught in class (cosine similarity)
+
