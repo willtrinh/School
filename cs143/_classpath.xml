@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="student/scheduler/src"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/gson-1.4.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/guava-r08.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/jboss-vfs-3.0.0.CR5.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/reflections.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="student/scheduler/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

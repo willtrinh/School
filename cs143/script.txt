@@ -1,0 +1,9 @@
+> ./submit.sh
+> mv submission.zip ../grader/17986840.zip
+> rm -rf submission
+> cd ../grader
+> chmod +x batch.sh
+> chmod +x run.sh
+> ./run.sh 17986840.zip
+> ./grade.sh s_17986840
+> rm -rf 17986840
