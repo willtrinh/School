@@ -1,0 +1,1601 @@
+{
+    "gc": {
+        "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": {
+            "www.ics.uci.edu": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/application-tips": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/application-tips"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/financial-aid": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/financial-aid"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    1525665647.876,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/housing": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/housing"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/transfer": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/transfer"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/careers/breadth": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/careers/breadth"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/contact/student-affairs": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/contact/student-affairs"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/degrees/overview": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/degrees/overview"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/opportunities/applied-learning": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/opportunities/applied-learning"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/student-life/diversity": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/student-life/diversity"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/uci/campus": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/uci/campus"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/ko/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/ko/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/vi/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/vi/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            },
+            "www.ics.uci.edu/prospective/zh-tw/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/zh-tw/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665744.121
+                ]
+            }
+        }
+    }
+}{
+    "gc": {
+        "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": {
+            "www.ics.uci.edu": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/application-tips": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/application-tips"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/financial-aid": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/financial-aid"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    1525665744.121,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/housing": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/housing"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/admissions/transfer": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/admissions/transfer"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/careers/breadth": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/careers/breadth"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/contact/student-affairs": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/contact/student-affairs"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/degrees/overview": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/degrees/overview"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/opportunities/applied-learning": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/opportunities/applied-learning"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/student-life/diversity": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/student-life/diversity"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/en/uci/campus": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/en/uci/campus"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/ko/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/ko/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/vi/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/vi/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            },
+            "www.ics.uci.edu/prospective/zh-tw/admissions/freshmen": {
+                "dims": {
+                    "domain": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu"
+                    },
+                    "download_complete": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "error_reason": {
+                        "type": 5
+                    },
+                    "final_url": {
+                        "type": 3,
+                        "value": ""
+                    },
+                    "http_code": {
+                        "type": 1,
+                        "value": 400
+                    },
+                    "http_headers": {
+                        "type": 11,
+                        "value": []
+                    },
+                    "is_redirected": {
+                        "type": 1,
+                        "value": false
+                    },
+                    "raw_content": {
+                        "type": 5
+                    },
+                    "scheme": {
+                        "type": 3,
+                        "value": "http"
+                    },
+                    "url": {
+                        "type": 3,
+                        "value": "www.ics.uci.edu/prospective/zh-tw/admissions/freshmen"
+                    },
+                    "user_agent_string": {
+                        "type": 3,
+                        "value": "Wtrinh2Antl2Huyqn6"
+                    }
+                },
+                "types": {
+                    "datamodel.search.Wtrinh2Antl2Huyqn6_datamodel.Wtrinh2Antl2Huyqn6Link": 1
+                },
+                "version": [
+                    null,
+                    1525665805.031
+                ]
+            }
+        }
+    }
+}
