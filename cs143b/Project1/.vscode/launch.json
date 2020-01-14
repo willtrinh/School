@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileSystem",
+            "request": "launch",
+            "mainClass": "FileSystem"
+        }
+    ]
+}

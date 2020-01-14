@@ -1,0 +1,14 @@
+in
+cr abc
+cr cde
+cr efgg
+dr
+op abc
+op cde
+wr 1 x 120
+wr 1 z 20
+wr 1 y 70
+sk 1 40
+rd 1 30
+de efgg
+dr
