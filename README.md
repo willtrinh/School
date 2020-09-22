@@ -1,2 +1,2 @@
 # School
-School Projects
+School Coursework
